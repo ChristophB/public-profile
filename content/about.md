@@ -25,6 +25,7 @@ aliases = ["about-us", "professions", "curriculum-vitae", "contact"]
     - Development and Use of Ontologies in Medicine
     - Design, implementation, and maintenance of complex web applications and databases
     - Linux Server Administration
+    - Research Data Management
     - Scientific analysis of clinical research data
 
 # Education
