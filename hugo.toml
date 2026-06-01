@@ -43,7 +43,7 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/christophb/"
 [[params.social]]
-  name = "Twitter"
+  name = "ORCID"
   icon = "fa-brands fa-orcid fa-2x"
   weight = 2
   url = "https://orcid.org/0000-0002-1166-0368"
@@ -56,7 +56,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Publications"
   weight = 2
-  url = "https://www.zotero.org/christophbe"
+  url = "https://orcid.org/0000-0002-1166-0368"
 [[menu.main]]
   name = "Imprint"
   weight = 10
